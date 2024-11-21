@@ -16,7 +16,7 @@ cd /path/to/destination/where/you/want/to/clone
 ```
 
 ```python
-git clone URL
+git clone [URL]
 ```
 
 ```python

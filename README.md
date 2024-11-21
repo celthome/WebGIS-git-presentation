@@ -7,8 +7,9 @@ Fügt in den Ordner *images* ein Bild eures (Wunsch-)Haustieres ein.
 Speichert es in euer lokales Repository. Anschließend merges es in `main`.
 
 
+## Cheat Sheet
 <details>
-  <summary> :memo: Cheat Sheet </summary>
+  <summary> :memo: Hilfestellung </summary>
 
 ```python
 cd /path/to/destination/where/you/want/to/clone
